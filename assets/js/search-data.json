@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Testing various blog options",
-            "content": "&gt; Testing fast pages capabilities - toc: true - badges: true - comments: true - categories: [jupyter] .",
-            "url": "https://esoreq.github.io/maxPlanck/2020/10/24/note.html",
-            "relUrl": "/2020/10/24/note.html",
+            "title": "Fastpages Notebook New Blog Post",
+            "content": "Some critical baselines . This blog-post (and any that follows) goal is to act as external memory deposit for basic and crucial essentials. They are intended to be the foundations on your personal path to mastering the art and science of making sense of data. These will cover many different topics that we will rely on during this course. The current post you are reading, is one of the most basic and underestimated skill command line interactions. Modern scientists nowdays need massive amounts of computational power to support their findings. This requires using shared resources such as high processing clusters (HPC) or very strong local linux servers. Interacting with these sort of interfaces requires basic and advance command line skills. In computing, a shell refers to some interface between the user (that is you) and the operating system (e.g. Mac, Windows etc.). Operating system shell interfaces can be broadly seperated to two types: (1) command-line or (2) graphical based. Different tasks will call for different interfaces, and in this course we will be using both intensively. . The bash Shell (Bourne Again SHell), is a command-line interface (CLI). Lets go over the most popular commands, and learn how to use them. If you want to extend your understanding you should consider taking Learn bash the Hard Way. . Bash (Bourne-Again SHell) Essentials . Bash is the shell, or command language interpreter (CLI), that allows us to interact with the operating system using text commands. .",
+            "url": "https://esoreq.github.io/maxPlanck/jupyter/2020/10/24/note.html",
+            "relUrl": "/jupyter/2020/10/24/note.html",
             "date": " • Oct 24, 2020"
         }
         
